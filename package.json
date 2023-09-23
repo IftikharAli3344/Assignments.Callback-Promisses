@@ -1,0 +1,6 @@
+{
+  "description": "",
+  "devDependencies": {
+    "@typed/node": "^6.7.0"
+  }
+}
